@@ -1,6 +1,8 @@
 
 body{
     background-color:#EAF6F6;
+    padding-left: 100px ;
+    padding-right: 100px ;
     }
 
 hr  {
@@ -8,7 +10,7 @@ hr  {
     border-color: rgb(200, 198, 198);
     border-width: 5px;
     border-top-style: dotted;
-    width:5%;
+    width:10%;
 
     }
 h1  {
